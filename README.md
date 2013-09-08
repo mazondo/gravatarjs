@@ -4,6 +4,9 @@ Yet another library for generating gravatar urls.
 ## Why?
 Because the other ones depend on jQuery or make assumptions I don't want like returning an image tag instead of a url.
 
+## Usage
+gravatarjs is based on the standard Gravatar API, learn more here: https://en.gravatar.com/site/implement/images/
+
 ### Generate a gravatar url
 ```
 gravatar("me@me.com");
