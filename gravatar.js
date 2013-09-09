@@ -10,7 +10,7 @@ function gravatar(email, options) {
 	options = {
 		size: options.size || "50",
 		rating: options.rating || "g",
-		secure: options.secure || false,
+		secure: options.secure || (location.protocol === 'https:'),
 		backup: options.backup || ""
 	};
 
