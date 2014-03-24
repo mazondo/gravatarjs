@@ -1,0 +1,21 @@
+{
+  "name": "gravatarjs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mazondo/gravatarjs",
+  "authors": [
+    "Ryan <ryan@mazondo.com>"
+  ],
+  "description": "Super simple gravatar library for js",
+  "main": "gravatar.js",
+  "keywords": [
+    "gravatar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
